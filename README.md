@@ -6,7 +6,7 @@
     <br>
 </p>
 
-REST FULL Microservice
+RESTful API Microservice
 =================
 
 ### Foundation library
