@@ -2,7 +2,7 @@
     <a href="https://github.com/nishanthrk" target="_blank">
         <img src="https://avatars2.githubusercontent.com/u/23454565?s=460&v=4" height="100px">
     </a>
-    <h1 align="center">HAN For REST API</h1>
+    <h1 align="center">HAN For RESTful API</h1>
     <br>
 </p>
 
