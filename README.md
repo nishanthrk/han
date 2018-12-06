@@ -2,7 +2,8 @@
     <a href="https://github.com/nishanthrk" target="_blank">
         <img src="https://avatars2.githubusercontent.com/u/23454565?s=460&v=4" height="100px">
     </a>
-    <h1 align="center">HAN For RESTful API</h1>
+    <h3 align="center">HAN for RESTful API</h3>
+    <p align="center"> Impressed with the way Yii framework works, So tweaked few key components which will help geeks. </br>The major objective of this Custom Yii Framework HAN is to satisfy the need of the microservice framework in startups </p>
     <br>
 </p>
 
