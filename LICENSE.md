@@ -1,22 +1,12 @@
-The Yii framework is free software. It is released under the terms of
+The HAN is free software. It is released under the terms of
 the following BSD License.
 
-Copyright © 2008 by Yii Software LLC (http://www.yiisoft.com)
+Copyright © 2018 by Nishanth Ravi
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
- * Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
- * Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in
-   the documentation and/or other materials provided with the
-   distribution.
- * Neither the name of Yii Software LLC nor the names of its
-   contributors may be used to endorse or promote products derived
-   from this software without specific prior written permission.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
