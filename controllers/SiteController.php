@@ -9,7 +9,7 @@ class SiteController extends Controller
 {
     public function actionIndex()
     {
-        \Yii::$app->apiResponse->ok(1, 'Welcome to Awok R&D and Development Center');
+        \Yii::$app->apiResponse->ok(1, 'Welcome to HAN Restful API Framework');
     }
 
     public function actionError()
