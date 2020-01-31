@@ -30,11 +30,9 @@ For any further details contact [nishanthravi@outlook.com](mailto:nishanthravi@o
 DIRECTORY STRUCTURE
 -------------------
 
-      assets/             contains assets definition
       commands/           contains console commands (controllers)
       config/             contains application configurations
       controllers/        contains Web controller classes
-      mail/               contains view files for e-mails
       models/             contains model classes
       modules/            contains modules classes which are useful for versioning
       runtime/            contains files generated during runtime
