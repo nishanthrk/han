@@ -17,7 +17,7 @@
         "php": ">=8.0",
         "yiisoft/yii2": "~2.0.14",
         "yiisoft/yii2-bootstrap": "~2.0.0",
-        "firebase/php-jwt": "^4.0",
+        "firebase/php-jwt": "^6.0",
         "yiisoft/yii2-elasticsearch": "~2.1.0",
         "vlucas/phpdotenv": "^5.3",
         "phpoffice/phpspreadsheet": "^1.18"
